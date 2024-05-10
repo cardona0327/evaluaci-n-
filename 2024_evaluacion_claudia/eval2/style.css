@@ -1,0 +1,14 @@
+.container {
+    background-color: aqua;
+    border: 1px solid blue;
+}
+
+.d-flex {
+    text-align: right;
+}
+h1 {
+    background-color: rgb(71, 99, 174);
+}
+nav {
+    border: 1px solid black;
+}
